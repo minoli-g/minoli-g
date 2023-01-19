@@ -10,7 +10,7 @@ I'm Minoli, a final-year student of Computer Science & Engineering at the Univer
 
 📚 I'm particularly fascinated by advanced data structures and algorithms, computer architecture and system design. My favourites of the projects I've done are <a href="https://github.com/minoli-g/squaredle-solver"> Squaredle Solver </a>, a word game solver which uses a Trie, a cool type of data structure, and <a href="https://github.com/minoli-g/intel-x86-emulator"> An Intel x86 Emulator </a>, which emulates all stages of the instruction decoding in an Intel x86 32-bit processor. 
 
-You can reach me at minoli.18@cse.mrt.ac.lk
+You can reach me through my <a href="https://linkedin.com/in/minoligamlath/">LinkedIn</a>, or at minoli.18@cse.mrt.ac.lk
 
 ## Languages and Tools
 
